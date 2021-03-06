@@ -54,6 +54,9 @@ def polyfit(x, yn, n,name, c='poly1'):
         ym = Log(x, popt[0], popt[1])
         print("The rate fitted model is:  {1:2f}*Exp({2:2f}*x) ".format(name,popt[0], popt[1]))
     #popt returns the best fit values for parameters of the given model (func)
+
+
+# Check
     
     
     
