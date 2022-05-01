@@ -4,6 +4,9 @@ Created on Fri Feb 20 11:52:30 2015
 
 @author: evgeniydonev
 """
+
+# Plot data
+
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
